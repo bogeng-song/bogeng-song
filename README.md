@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### I'm Bogeng!
 
 - 👀 I’m interested in understanding how human perceive the world.
-- 🌱 I’m currently a master student at NYU
+- 🌱 I’m currently a PhD student at Georgia tech
 - 💞️ I’m looking to collaborate on interesting projects using computational methods to understand the brain and behavior.
 - 📫 For more info about me, check out personal website: https://bogeng-song.github.io/
 
